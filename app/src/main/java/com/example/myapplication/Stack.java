@@ -3,7 +3,7 @@ package com.example.myapplication;
 public class Stack
 {
     private Node top;
-    private int count;
+    public int count;
 
     public Stack()
     {
